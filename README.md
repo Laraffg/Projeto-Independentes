@@ -1,6 +1,7 @@
 # Jogo de Adivinhação em Python
 
 Este é um jogo simples desenvolvido em Python onde o usuário tenta adivinhar um número aleatório gerado pelo sistema.
+![alt text](image.png)
 
 ##  Funcionalidades
 

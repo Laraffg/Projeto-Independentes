@@ -30,4 +30,3 @@ while jogar == 's':
     jogar = jogar.lower().strip()
 if jogar == 'n':
      print('Ok, até outro dia, {}! Foi muito divertido jogar com você 😊' .format(nome.title()))
-   
