@@ -27,8 +27,6 @@ while jogar == 's':
         tentativa = int(input('Tente novamente: '))
     if tentativa == numero_correto:
         print('UAU! Está \033[32;40mCORRETO\033[m!!! O número que eu pensei foi {} 😎.' .format(numero_correto))
-    else:
-        print('Que pena, você \033[31mNÃO ACERTOU \033[m.')
     sleep(2)
       
             
