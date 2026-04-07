@@ -1,4 +1,4 @@
-# Jogo de Adivinhação em Python
+## Jogo de Adivinhação em Python
 
 Este é um jogo simples desenvolvido em Python onde o usuário tenta adivinhar um número aleatório gerado pelo sistema.
 ![alt text](image.png)
@@ -17,5 +17,8 @@ Este é um jogo simples desenvolvido em Python onde o usuário tenta adivinhar u
 - Biblioteca `time` 
 
 ## Como executar
-1. Execute o arquivo main.py
-2. Responder as perguntas
+1. Clone o repositório
+2. Execute o arquivo `main.py` 
+
+## 👩‍💻 Autor
+Lara Gonzaga
