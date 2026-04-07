@@ -21,4 +21,4 @@ Este é um jogo simples desenvolvido em Python onde o usuário tenta adivinhar u
 2. Execute o arquivo `main.py` 
 
 ## 👩‍💻 Autor
-Lara Gonzaga
+Lara Francieli Furlaneti Gonzaga
