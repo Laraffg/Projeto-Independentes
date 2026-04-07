@@ -29,8 +29,6 @@ while jogar == 's':
         print('UAU! Está \033[32;40mCORRETO\033[m!!! O número que eu pensei foi {} 😎.' .format(numero_correto))
     sleep(2)
       
-            
-
     #jogar_novamente
     jogar = input('Você quer jogar de novo? Digite \033[32mS \033[mpara SIM e \033[31mN \033[mpara NAO: ' )
     jogar = jogar.lower().strip()
